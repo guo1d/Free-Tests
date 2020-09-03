@@ -1,0 +1,10 @@
+[2020-08-31 06:30:34][INFO ] [pool-15-thread-12] [com.ze.datadirect.curve.CurveExecutor] -Executing curve - 4519 on effective date - Mon Aug 31 00:00:00 EDT 2020
+[2020-08-31 06:31:14][INFO ] [pool-15-thread-12] [com.ze.curve.dao.CurveDataDAO] -Completely updated curve - 4519 on 2020-08-31. Inserted: 2000, updated: 0
+[2020-08-31 06:31:14][INFO ] [pool-15-thread-12] [com.ze.curve.service.PersistCurveHelper] -Curve automatic execution succeeded: curve - 4519 adaptor - 1 effective date - 2020-08-31
+[2020-08-31 06:31:15][INFO ] [pool-15-thread-12] [com.ze.curve.service.PersistCurveHelper] -Curve automatic execution succeeded: curve - 4519 adaptor - 1000 effective date - 2020-08-31
+[2020-08-31 06:31:15][INFO ] [pool-15-thread-12] [com.ze.curve.service.PersistCurveHelper] -Executed curve - 4519 (AU-REC-LGC DAILY PRELIMINARY) on effective date Mon Aug 31 00:00:00 EDT 2020 : 41472 ms
+[2020-08-31 07:21:15][INFO ] [Thread-28] [com.ze.datadirect.curve.CurveExecutorService] -Ready to execute curve - 4519 (0) on effective date - Mon Aug 31 00:00:00 EDT 2020
+[2020-08-31 07:21:15][INFO ] [pool-15-thread-17] [com.ze.datadirect.curve.CurveExecutor] -Executing curve - 4519 on effective date - Mon Aug 31 00:00:00 EDT 2020
+[2020-08-31 07:21:53][INFO ] [pool-15-thread-17] [com.ze.curve.dao.CurveDataDAO] -Completely updated curve - 4519 on 2020-08-31. Inserted: 0, updated: 0
+[2020-08-31 07:21:53][INFO ] [pool-15-thread-17] [com.ze.curve.service.PersistCurveHelper] -Curve automatic execution finished, nothing persisted: curve - 4519 adaptor - 1 effective date - 2020-08-31
+[2020-08-31 07:21:53][INFO ] [pool-15-thread-17] [com.ze.curve.service.PersistCurveHelper] -Executed curve - 4519 (AU-REC-LGC DAILY PRELIMINARY) on effective date Mon Aug 31 00:00:00 EDT 2020 : 38252 ms
